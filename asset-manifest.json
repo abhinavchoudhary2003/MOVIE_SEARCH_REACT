@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MOVIE_SEARCH_REACT/static/css/main.e27e1015.css",
+    "main.js": "/MOVIE_SEARCH_REACT/static/js/main.e3975ece.js",
+    "index.html": "/MOVIE_SEARCH_REACT/index.html",
+    "main.e27e1015.css.map": "/MOVIE_SEARCH_REACT/static/css/main.e27e1015.css.map",
+    "main.e3975ece.js.map": "/MOVIE_SEARCH_REACT/static/js/main.e3975ece.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e27e1015.css",
+    "static/js/main.e3975ece.js"
+  ]
+}
